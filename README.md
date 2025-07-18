@@ -27,7 +27,7 @@ Mi objetivo es mantener una organización clara y progresiva para facilitar el e
 ├── 📂 Itinerario para la Empleabilidad I /
 ├── 📂 Sostenibilidad Aplicada al Sistema Productivo /
 └── README.md
-
+```
 🧠 Objetivos del repositorio
 
     ✅ Centralizar el material de estudio por asignatura.
@@ -60,7 +60,7 @@ Añadiré notas, reflexiones y mejoras continuas para aprovechar al máximo esta
 
 ¡Gracias por tu interés en contribuir a este proyecto!  
 Sigue estos pasos para enviar tu propuesta de mejora o corrección:
-
+```bash
 1. **Haz un fork del repositorio**
    - Pulsa el botón `Fork` en la parte superior derecha de esta página.
    - Esto creará una copia del repositorio en tu cuenta de GitHub.
@@ -86,6 +86,7 @@ Sigue estos pasos para enviar tu propuesta de mejora o corrección:
    - Ve a tu fork en GitHub.
    - Haz clic en Compare & pull request.
    - Describe tus cambios brevemente y envía la PR.
+```
 
 🧼 Consejo: Si puedes, revisa que tu cambio no rompa nada y sigue el estilo del proyecto.
 🔍 Todas las pull requests serán revisadas antes de ser aceptadas.
