@@ -106,7 +106,7 @@ Este proyecto está licenciado bajo la **Licencia Apache 2.0**.
 - No puedes usar el nombre del proyecto o sus autores para promocionar derivados sin permiso
 - Incluye **protección frente a demandas de patentes** por parte de los contribuidores
 
-Puedes leer la licencia completa aquí: [LICENSE](./LICENSE)
+Puedes leer la licencia completa aquí: Licencia Apache 2.0
 
 ⚠️ Aviso legal
 
