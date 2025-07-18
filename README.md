@@ -56,11 +56,44 @@ Leyenda: ✔ Completado, 🔄 En progreso, ⬜ Por empezar
 Este repositorio no solo sirve como archivo de estudio, sino también como bitácora de aprendizaje.
 Añadiré notas, reflexiones y mejoras continuas para aprovechar al máximo esta formación.
 
+## 🤝 Cómo contribuir
+
+¡Gracias por tu interés en contribuir a este proyecto!  
+Sigue estos pasos para enviar tu propuesta de mejora o corrección:
+
+1. **Haz un fork del repositorio**
+   - Pulsa el botón `Fork` en la parte superior derecha de esta página.
+   - Esto creará una copia del repositorio en tu cuenta de GitHub.
+
+2. **Clona tu fork en local**
+   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   cd nombre-del-repo
+
+3. **Crea una nueva rama para tu cambio**
+   git checkout -b nombre-de-tu-rama
+
+4. **Realiza tus cambios**
+   Asegúrate de que el código esté limpio y documentado si es necesario.
+
+5. **Haz commit de tus cambios**
+   git add .
+   git commit -m "Descripción clara de los cambios"
+
+6. **Sube tu rama a tu fork**
+   git push origin nombre-de-tu-rama
+
+7. **Abre una Pull Request**
+   - Ve a tu fork en GitHub.
+   - Haz clic en Compare & pull request.
+   - Describe tus cambios brevemente y envía la PR.
+
+🧼 Consejo: Si puedes, revisa que tu cambio no rompa nada y sigue el estilo del proyecto.
+🔍 Todas las pull requests serán revisadas antes de ser aceptadas.
+
+
 ⚠️ Aviso legal
 
 Este material es de uso personal y educativo. No sustituye los contenidos oficiales ni está destinado a la distribución masiva.
 Cualquier uso debe respetar la normativa académica vigente.
 
 ¡Ánimo con el estudio y a por todas! 💪🚀
-
-
