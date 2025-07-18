@@ -1,3 +1,11 @@
+<h1 align="center">📦 Repositorio de Proyecto</h1>
+<p align="center">Código limpio, propósito claro y mejoras constantes.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/estado-en%20desarrollo-yellow" alt="Estado del proyecto" />
+  <img src="https://img.shields.io/badge/licencia-Apache%202.0-blue" alt="Licencia Apache 2.0" />
+  <img src="https://img.shields.io/badge/hecho%20con-%E2%9D%A4%EF%B8%8F%20y%20Monster-8fce00" alt="Hecho con amor y Monster" />
+</p>
+<hr>
 # 📚 CFGS Desarrollo de Aplicaciones Web - Estudio a Distancia (Junta de Andalucía)
 
 ¡Hola! Este repositorio recoge todo el material de estudio, apuntes, ejercicios y recursos que voy utilizando durante el **CFGS en Desarrollo de Aplicaciones Web**, en la modalidad **a distancia** a través de la **Junta de Andalucía**.
