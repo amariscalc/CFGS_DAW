@@ -18,14 +18,14 @@ Mi objetivo es mantener una organización clara y progresiva para facilitar el e
 
 ```bash
 📁 CFGS-DAW/
-├── 📂 Sistemas Informáticos [0483]/
-├── 📂 Bases de Datos [0484]/
-├── 📂 Programación [0485]/
-├── 📂 Lenguajes de Marcas y SGI [0373]/
-├── 📂 Entornos de Desarrollo [0487]/
-├── 📂 Inglés Profesional GS [0179]/
-├── 📂 Itinerario para la Empleabilidad I [1709]/
-├── 📂 Sostenibilidad Aplicada al Sistema Productivo [1708]/
+├── 📂 Sistemas Informáticos /
+├── 📂 Bases de Datos /
+├── 📂 Programación /
+├── 📂 Lenguajes de Marcas y SGI /
+├── 📂 Entornos de Desarrollo /
+├── 📂 Inglés Profesional GS /
+├── 📂 Itinerario para la Empleabilidad I /
+├── 📂 Sostenibilidad Aplicada al Sistema Productivo /
 └── README.md
 
 🧠 Objetivos del repositorio
