@@ -1,4 +1,4 @@
-<h1 align="center">📦 Repositorio de Proyecto</h1>
+<h1 align="center">📦 CFGS Desarrollo Aplicaciones Web</h1>
 <p align="center">Código limpio, propósito claro y mejoras constantes.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/estado-en%20desarrollo-yellow" alt="Estado del proyecto" />
