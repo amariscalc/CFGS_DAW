@@ -53,10 +53,13 @@ Leyenda: ✔ Completado, 🔄 En progreso, ⬜ Por empezar
 
 ✍️ Notas personales
 
-Este repositorio no solo sirve como archivo de estudio, sino también como bitácora de aprendizaje. Añadiré notas, reflexiones y mejoras continuas para aprovechar al máximo esta formación.
+Este repositorio no solo sirve como archivo de estudio, sino también como bitácora de aprendizaje.
+Añadiré notas, reflexiones y mejoras continuas para aprovechar al máximo esta formación.
+
 ⚠️ Aviso legal
 
-Este material es de uso personal y educativo. No sustituye los contenidos oficiales ni está destinado a la distribución masiva. Cualquier uso debe respetar la normativa académica vigente.
+Este material es de uso personal y educativo. No sustituye los contenidos oficiales ni está destinado a la distribución masiva.
+Cualquier uso debe respetar la normativa académica vigente.
 
 ¡Ánimo con el estudio y a por todas! 💪🚀
 
