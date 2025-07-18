@@ -90,6 +90,23 @@ Sigue estos pasos para enviar tu propuesta de mejora o corrección:
 🧼 Consejo: Si puedes, revisa que tu cambio no rompa nada y sigue el estilo del proyecto.
 🔍 Todas las pull requests serán revisadas antes de ser aceptadas.
 
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la **Licencia Apache 2.0**.
+
+### 🛠️ ¿Qué puedes hacer?
+- ✅ Usar el código para fines personales, académicos o comerciales  
+- ✅ Modificarlo y adaptarlo a tus necesidades  
+- ✅ Distribuirlo, con o sin cambios  
+
+### 📌 Condiciones clave:
+- Debes **incluir un aviso de copyright**
+- Debes **incluir una copia de la licencia**
+- Debes **indicar si realizas cambios**
+- No puedes usar el nombre del proyecto o sus autores para promocionar derivados sin permiso
+- Incluye **protección frente a demandas de patentes** por parte de los contribuidores
+
+Puedes leer la licencia completa aquí: [LICENSE](./LICENSE)
 
 ⚠️ Aviso legal
 
