@@ -8,6 +8,7 @@ Aquí aprenderás sobre:
 - Componentes hardware y software de un sistema informático
 - Instalación, configuración y mantenimiento de sistemas
 - Virtualización y entornos de red
+....
 
 ## 📚 Contenidos
 
@@ -29,10 +30,12 @@ Aquí aprenderás sobre:
 
 ## 📁 Estructura del repositorio
 
+```
 📂 Sistemas Informáticos/
 ├── apuntes/
 ├── prácticas/
 └── exámenes/
+```
 
 
 ## 🚀 Objetivo
